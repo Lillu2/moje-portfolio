@@ -187,6 +187,13 @@ footer a {
 .vlevo {
     float: left;
 }
+
+.vlevo {
+    float: left;
+    width: 50px;     /* nastavíš šířku podle potřeby */
+    height: auto;    /* zachová proporce obrázku */
+    margin-right: 10px;
+}
 #dovednosti td {
     width: 33%;
     padding: 10px;
@@ -235,3 +242,4 @@ footer a {
 #reference a:hover {
     text-decoration: none;
 }
+
